@@ -7,7 +7,7 @@
   powerful developer experience meets lightweight output.
   <br/><br/>
 </p>
-
+1
 <div align="center">
 
 [![main](https://github.com/withastro/astro/actions/workflows/ci.yml/badge.svg)](https://github.com/withastro/astro/actions/workflows/ci.yml)
